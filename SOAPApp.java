@@ -1,5 +1,3 @@
-package com.emre;
-
 import java.io.*;
 import java.awt.BorderLayout;
 import java.awt.*;
